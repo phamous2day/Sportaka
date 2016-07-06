@@ -34,7 +34,7 @@ Dave, Sandyha,and Matthew
 
 # Name of each team member and his/her individual contributions to the project
 * Matthew: worked on core functionalities of the app (building local JSON files to store data), helped the team with problem-sovling javascript issues.
-* Dave: designed the mockup using GIMP, helped with some design aspects (image resizing, image optimizations, etc.), functionality of Soccer page, intense rearch on Stubhub API (turned out to be bust), then switched over to TicketMaster API, helped consolidate changes together in Github
+* Dave: designed the mockup using GIMP, helped with some design aspects (image resizing, image optimizations, etc.), functionality of Soccer page, intense research on Stubhub API (turned out to be bust), then switched over to TicketMaster API, helped consolidate changes together in Github
 * Sandyha: came up with the sports idea, designed the html pages, worked on Nascar functionality
 
 #Mockup Design
