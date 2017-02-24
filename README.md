@@ -8,24 +8,25 @@ A front-end project for DigitalCrafts utilizing everything we've learned so far.
 # Overview of Project
 Our project will be a sort of sports aggragator that pulls:
 * Map of where current matches are held
-
 * Options to buy tickets
-
 * Historical data of past matches.
 
 
 
 # Technologies, Frameworks, and Programming Languages used
-##### Frameworks
-Bootstrap, Angularjs
 
-##### API's
-Sports Radar API, Ticketmaster API, Google Maps API
+Languages:
+* HTML5, 
+* CSS3, 
+* JavaScript
+* AngularJS
 
-##### Languages:
-HTML5, CSS3, JavaScript,
+API's
+* Sports Radar API 
+* Ticketmaster API
+* Google Maps API
 
-##### Additional Tools:
+Additional Tools:
 * XML to JSON converter: http://www.utilities-online.info/xmltojson/#.V17zT-YrJhE
 
 
@@ -39,7 +40,6 @@ Dave, Sandyha,and Matthew
 
 #Mockup Design
 
-
 ![screenshot](images/screenshot.png)
 
 #Phases of our Project
@@ -52,6 +52,9 @@ Final
 
 ![screenshot](images/screenshot4.png)
 
+# Obstacles
+Due to the limitations of the API's used, we could only make so few calls to pull information from their databases. So, as a workaround, we downloaded their databases as a JSON file and made calls "locally" anytime we needed ticket information (who's playing, what stadium, location, etc).
+
 3 contributions your team would like for others to add to the project
 * Dynamic data pulls from assorted API's (this can be accomplished on paid accounts for API services)
 * Add more sports to app
@@ -59,8 +62,3 @@ Final
 * Add news feed carousel at the bottom, can be accomplished using Bing API
 
 
-
-##### URL to live project
-
-http://sportakus.surge.sh/index.html
-# sportaka
