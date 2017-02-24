@@ -31,7 +31,7 @@ Additional Tools:
 
 
 # Team Sportan
-Dave, Sandyha,and Matthew
+Matthew, Dave, Sandyha
 
 # Name of each team member and his/her individual contributions to the project
 * Matthew: worked on core functionalities of the app (building local JSON files to store data), helped the team with problem-sovling javascript issues.
@@ -48,14 +48,13 @@ Dave, Sandyha,and Matthew
 
 ![screenshot](images/screenshot3.png)
 
-Final
 
 ![screenshot](images/screenshot4.png)
 
 # Obstacles
 Due to the limitations of the API's used, we could only make so few calls to pull information from their databases. So, as a workaround, we downloaded their databases as a JSON file and made calls "locally" anytime we needed ticket information (who's playing, what stadium, location, etc).
 
-3 contributions your team would like for others to add to the project
+# Next Steps
 * Dynamic data pulls from assorted API's (this can be accomplished on paid accounts for API services)
 * Add more sports to app
 * Add login functionality to remember user ticket/sports preferences
